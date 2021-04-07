@@ -11,4 +11,4 @@ I created this application as part of a lecture / training module that I led reg
 
 1. App flow (note: the GIF video appears laggy)
 
-![ezgif com-gif-maker(2)](https://user-images.githubusercontent.com/42954670/113868745-a0d1bd80-9775-11eb-96d1-6152ee8d7685.MP4)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/42954670/113869061-ec846700-9775-11eb-86d2-5b096ed49a11.gif)
